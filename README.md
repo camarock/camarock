@@ -1,4 +1,4 @@
-<div align="center"><b><h1>Hola!</h></b>
+<div align="center"><b><h1>Hola!</h1></b>
   
 ---
 
