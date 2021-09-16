@@ -1,4 +1,6 @@
 <div align="center"><b><h1>Hola!</b>
+  
+---
 
 ![Tierra](https://user-images.githubusercontent.com/87871521/133342938-77d20d31-a446-45fe-8a02-d64ec6c9d8b1.gif)
 
